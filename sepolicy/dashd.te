@@ -27,7 +27,7 @@ allow dashd pstorefs:file r_file_perms;
 allow dashd graphics_device:dir r_dir_perms;
 allow dashd graphics_device:chr_file rw_file_perms;
 allow dashd input_device:dir r_dir_perms;
-allow dashd input_device:chr_file  rw_file_perms;
+allow dashd input_device:chr_file rw_file_perms;
 allow dashd tty_device:chr_file rw_file_perms;
 allow dashd ashmem_device:chr_file execute;
 allow dashd self:process execmem;
