@@ -1,3 +1,4 @@
+# ADSP
 bin/adsprpcd
 vendor/lib/libadsp_default_listener.so
 vendor/lib/libadsp_hvx_callback_skel.so
@@ -233,7 +234,6 @@ vendor/lib/libRSDriver_adreno.so
 vendor/lib/libsd_sdk_display.so
 vendor/lib/libsdm-color.so
 -vendor/lib/libsdm-disp-apis.so
-vendor/lib/libtinyxml2_1.so
 vendor/lib64/egl/eglSubDriverAndroid.so
 vendor/lib64/egl/libEGL_adreno.so
 vendor/lib64/egl/libGLESv1_CM_adreno.so
@@ -263,7 +263,6 @@ vendor/lib64/libsdm-color.so
 vendor/lib64/libsdm-diag.so
 -vendor/lib64/libsdm-disp-apis.so
 vendor/lib64/libsdmextension.so
-vendor/lib64/libtinyxml2_1.so
 
 # Keystore
 vendor/lib/hw/keystore.msm8998.so
